@@ -1,2 +1,1 @@
-Lab for phys1200 on January, 22nd, 2024. Today, we practiced some code for some simple physics situations, and also downloaded some important apps.
-
+Lab for Physics 1200 on February 5th, 2024. In class today, we went over what different data types exist in Python and how to use them. We then did a few practice problems which are located in the other branch in this respository.
